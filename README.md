@@ -6,7 +6,7 @@
 
 ## Играть в браузере
 
-**[https://ТВОЁ-ИМЯ.github.io/nu-kotik-2/](https://ТВОЁ-ИМЯ.github.io/nu-kotik-2/)**
+**[https://ТВОЁ-ИМЯ.github.io/nu-kotik-2/](https://RyokoAkinawa.github.io/nu-kotik-2/)**
 
 Ставить ничего не нужно: вся игра — один файл `index.html`. Подойдёт браузер не старше 2021 года.
 
