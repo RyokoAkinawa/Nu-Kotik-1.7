@@ -6,7 +6,7 @@
 
 ## Играть в браузере
 
-**[https://RyokoAkinawa.github.io/nu-kotik-2/](https://RyokoAkinawa.github.io/nu-kotik-2/)**
+**[https://RyokoAkinawa.github.io/nu-kotik-2/](https://RyokoAkinawa.github.io/nu-kotik-1.7/)**
 
 Ставить ничего не нужно: вся игра — один файл `index.html`. Подойдёт браузер не старше 2021 года.
 
@@ -14,7 +14,7 @@
 
 ## Android
 
-**[Скачать nu-kotik-2.apk](nu-kotik-2.apk?raw=true)** — 2,5 МБ, Android 7.0 и новее.
+**[Скачать nu-kotik-2.apk](nu-kotik-1.7.apk?raw=true)** — 2,5 МБ, Android 7.0 и новее.
 
 1. Открой эту страницу на телефоне и нажми ссылку: файл скачается.
 2. Открой скачанный файл. Android спросит, можно ли ставить приложения из этого источника (из браузера или из «Файлов»). Разреши.
